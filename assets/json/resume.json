@@ -1,157 +1,155 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "name": "Lucas de Sousa Rosa",
+    "label": "Computer Scientist",
+    "email": "roses.lucas@usp.br",
+    "url": "https://firilisinof.github.io/",
+    "summary": "Direct Ph.D. student in the Computer Science Graduate Program at the Institute of Mathematics and Statistics, University of São Paulo (IME-USP), with over four years of research experience consolidated through FAPESP fellowships in technical training, scientific initiation, research internships abroad and doctorate. Interests focused on mathematical-computational problems, with an emphasis on high-performance computing, machine learning, and scheduling."
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of São Paulo, Institute of Mathemics and Statistics",
+      "location": "São Paulo, Brazil",
+      "url": "https://www.ime.usp.br/en/home/",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2023-08-04"
+    },
+    {
+      "institution": "University of São Paulo",
+      "location": "São Paulo, Brazil",
+      "url": "https://cecm.usp.br/",
+      "area": "Molecular Sciences",
+      "studyType": "BSc",
+      "startDate": "2019-07-31",
+      "endDate": "2023-08-04"
+    },
+    {
+      "institution": "University of São Paulo, São Carlos Institute of Physics",
+      "location": "São Carlos, Brazil",
+      "url": "https://www2.ifsc.usp.br/english/",
+      "area": "Computational Physics",
+      "studyType": "BSc",
+      "startDate": "2019-02-01",
+      "endDate": "2019-07-31"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "One of the Best Scientific Initiation Work",
+      "date": "2023",
+      "awarder": "Undergraduate Research Contest (CTIC), Brazilian Computer Society Congress (CSBC)",
+      "url": "https://journals-sol.sbc.org.br/index.php/reic/article/view/3419",
+      "summary": "Work selected as one of the 10 best scientific initiation works of 2023 according to the Brazilian Computer Society (SBC)."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Honorable Mention",
+      "date": "2022",
+      "awarder": "XXIII Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD 2022)",
+      "url": "https://sol.sbc.org.br/index.php/sscad_estendido/article/view/21899",
+      "summary": "Honorable Mention for the article In search of efficient scheduling heuristics from simulations and Machine Learning accepted at the Workshop de Iniciação Científica em Arquitetura de Computadores e Computação de Alto Desempenho (WSCAD-WIC)"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "An Experimental Analysis of Regression-Obtained HPC Scheduling Heuristics",
+      "publisher": "26th Workshop on Job Scheduling Strategies for Parallel Processing",
+      "releaseDate": "2023-09-15",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-43943-8_6#chapter-info",
+      "summary": "Scheduling jobs in High-Performance Computing (HPC) platforms typically involves heuristics consisting of job sorting functions such as First-Come-First-Served or custom (hand-engineered). Linear regression methods are promising for exploiting scheduling data to create simple and transparent heuristics with lesser computational overhead than state-of-the-art learning methods. The drawback is lesser scheduling performance. We experimentally investigated the hypothesis that we could increase the scheduling performance of regression-obtained heuristics by increasing the complexity of the sorting functions and exploiting derivative job features. We used multiple linear regression to develop a factory of scheduling heuristics based on scheduling data. This factory uses general polynomials of the jobs’ characteristics as templates for the scheduling heuristics. We defined a set of polynomials with increasing complexity between them, and we used our factory to create scheduling heuristics based on these polynomials. We evaluated the performance of the obtained heuristics with wide-range simulation experiments using real-world traces from 1997 to 2016. Our results show that large-sized polynomials led to unstable scheduling heuristics due to multicollinearity effects in the regression, with small-sized polynomials leading to a stable and efficient scheduling performance. These results conclude that (i) multicollinearity imposes a constraint when one wants to derive new features (i.e., feature engineering) for creating scheduling heuristics with regression, and (ii) regression-obtained scheduling heuristics can be resilient to the long-term evolution of HPC platforms and workloads."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "In search of efficient scheduling heuristics from simulations and Machine Learning",
+      "publisher": "Companion Proceedings of the 23rd Symposium on High Performance Computing Systems",
+      "releaseDate": "2022-10-19",
+      "url": "https://sol.sbc.org.br/index.php/sscad_estendido/article/view/21899",
+      "summary": "High Performance Computing (HPC) systems are used to solve a number of complex issues in different fields of knowledge. However, these platforms have been rapidly evolving in size and complexity; and ensuring efficiency in managing applications (jobs) has become a challenge. Typically, this management involves scheduling heuristics that consist of functions to order the jobs. In this work we evaluate the limits of regression methods for creating scheduling heuristics. Our results show that the simplest heuristic led to the most efficient scheduling, while the more complex heuristics showed instabilities due to multicollinearity."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "On limits of Machine Learning techniques in the learning of scheduling policies",
+      "publisher": "Proceedings of the 42nd Undergraduate Research Contest (CTIC)",
+      "releaseDate": "2023-08-05",
+      "url": "https://journals-sol.sbc.org.br/index.php/reic/article/view/3419",
+      "summary": "This scientific initiation work explores the emerging relationship between managing resources on high-performance computing (HPC) platforms and the use of regression-derived scheduling heuristics to optimize performance. Recent research has shown that machine learning (ML) techniques can be used to generate scheduling heuristics that are simple and efficient. This work proposes an alternative approach using polynomial functions to generate scheduling heuristics. The simplest polynomial was found to be one of the most efficient heuristic. We also evaluated the resilience of the regression-derived heuristics over time. We published two papers in peer-reviewed national and international workshops (Qualis-B3/B4)."
+    },
+    {
+      "name": "Exploring simplicity and efficiency: regression-based scheduling heuristics in HPC",
+      "publisher": "Proceedings of the 14th Regional School of High-Performance Computing of São Paulo",
+      "releaseDate": "2023-07-17",
+      "url": "https://sol.sbc.org.br/index.php/eradsp/article/view/25368",
+      "summary": "This research examines the interplay between resource management in high-performance computing systems and the application of machine learning techniques in developing scheduling heuristics. The potential for improved performance, through scheduling heuristics based on linear regression and polynomial job characteristics, was explored. Larger polynomials caused instability due to multicollinearity effects, but the simplest polynomial delivered stable and efficient scheduling performance. The study also evaluates the longterm resilience of these regression-based heuristics."
+    },
+    {
+      "name": "Energy-Aware Scheduling for Serverless Scientific Workflows: A Machine Learning Approach",
+      "publisher": "Proceedings of the 15th Regional School of High-Performance Computing of São Paulo",
+      "releaseDate": "2024-05-16",
+      "url": "https://sol.sbc.org.br/index.php/eradsp/article/view/28742",
+      "summary": "This article proposes to address the challenges of energy efficiency and workflow scheduling in serverless computing environments. By integrating machine learning techniques and simulation, the research aims to bridge gaps between energy efficiency and serverless scheduling. The methodology involves historical data collection, energy consumption prediction through machine learning, and the development of scheduling policies with deep neural networks. The project also includes adaptation of workflow management systems and validation in real-world environments, aiming to provide viable solutions to current challenges in HPC."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Doctorate (Direct PhD): Sustainable Supercomputing: Energy Efficiency and Resource Management through Statistical Modeling and Machine Learning",
+      "summary": "This PhD research project addresses challenges in resource management and workload modeling in the field of supercomputing. The proposed strategy includes the use of automated techniques, such as machine learning and optimization based on design of experiments, taking into account energy aspects of tasks and platforms. We will carry out scheduling experiments via simulations, aiming to generate data on scheduling behavior in different scenarios, evaluate performance and energy efficiency metrics, as well as compare various methodologies. The project also aims to investigate an underexplored aspect of workload modeling: the representation of tasks' energy consumption. Finally, we intend to test these more sophisticated models by evaluating their representativeness",
+      "highlights": ["Principal Investigator was Alfredo Goldman vel Lejbman", "Financed by São Paulo Research Foundation (FAPESP)", "Grant Number is 23/09048-8"],
+      "startDate": "2024-09",
+      "url": "https://bv.fapesp.br/en/bolsas/220985/sustainable-supercomputing-energy-efficiency-and-resource-management-through-statistical-modeling-an/"
+    },
+    {
+      "name": "Research Internship Abroad Scholarship (BEPE-IC): Evaluating machine learning techniques and simulations to create efficient scheduling heuristics",
+      "summary": "Collaboration with the DATAMOVE research group to investigate regression methods to create simple and efficient scheduling heuristics",
+      "highlights": ["Principal Investigator was Alfredo Goldman vel Lejbman", "Supervisor was Denis Trystram", "Co-supervisor was Danilo Carastan-Santos", "Financed by São Paulo Research Foundation (FAPESP)", "Grant Number is 22/14673-6"],
+      "startDate": "2023-02",
+      "endDate": "2023-03",
+      "url": "https://bv.fapesp.br/en/bolsas/206621/evaluating-machine-learning-techniques-and-simulations-to-create-efficient-scheduling-heuristics/"
+    },
+    {
+      "name": "Scientific Initiation (IC): On limits of Machine Learning techniques in the learning of scheduling policies",
+      "summary": "Explore the emerging relationship between managing resources on high-performance computing (HPC) platforms and the use of regression-derived scheduling heuristics to optimize performance",
+      "highlights": ["Principal Investigator was Alfredo Goldman vel Lejbman", "Co-supervisor was Danilo Carastan-Santos", "Financed by São Paulo Research Foundation (FAPESP)", "Grant Number is 22/06906-0"],
+      "startDate": "2022-07",
+      "endDate": "2023-08",
+      "url": "https://bv.fapesp.br/en/bolsas/202861/on-limits-of-machine-learning-techniques-in-the-learning-of-scheduling-policies/"
+    },
+    {
+      "name": "Technical Training (TT-1): Technical training in numerical methods and administration of computational resources",
+      "summary": "Training in the management of high-performance computing systems and introduction to numerical methods relevant to scientific computing, particularly in the area of molecular simulation",
+      "highlights": ["Principal Investigator was Guilherme Menegon Arantes", "Financed by São Paulo Research Foundation (FAPESP)", "Grant Number is 20/09918-4", "Interactive teaching material for biophysics"],
+      "startDate": "2020-08",
+      "endDate": "2021-12",
+      "url": "https://bv.fapesp.br/en/bolsas/193225/technical-training-in-numerical-methods-and-administration-of-computational-resources/"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Computer Science",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-computer",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "High-Performance Computing",
+        "Job Scheduling",
+        "Parallel Computing",
+        "Machine Learning",
+        "Software Development",
+        "Human Computer Interaction",
+        "Game Development"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "icon": "fa-solid fa-square-binary",
+      "keywords": [
+        "Python",
+        "C/C++",
+        "Julia",
+        "R"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Brazilian Portuguese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -159,42 +157,11 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "language": "French",
+      "fluency": "Learning",
+      "icon": ""
     }
   ]
 }
